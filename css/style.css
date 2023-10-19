@@ -1,4 +1,7 @@
-/********** Template CSS **********/
+.card-subtitle {
+    
+}
+
 :root {
     --primary: #88B44E;
     --secondary: #FB9F38;
@@ -128,7 +131,7 @@
         height: 100px;
     }
 
-    .navbar .navbar-nav .nav-link  {
+    .navbar .navbar-nav .nav-link {
         margin-right: 0;
         padding: 10px 0;
     }
@@ -190,7 +193,7 @@
         position: relative;
         min-height: 450px;
     }
-    
+
     #header-carousel .carousel-item img {
         position: absolute;
         width: 100%;
